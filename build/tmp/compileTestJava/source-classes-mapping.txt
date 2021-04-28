@@ -1,0 +1,12 @@
+com/automatizacion/Pages/quickEdit_Pages.java
+ com.automatizacion.Pages.quickEdit_Pages
+com/automatizacion/Post/quickEdit_Post.java
+ com.automatizacion.Post.quickEdit_Post
+com/automatizacion/Pages/addNew_Pages.java
+ com.automatizacion.Pages.addNew_Pages
+com/automatizacion/Post/Edit_Post.java
+ com.automatizacion.Post.Edit_Post
+com/automatizacion/Pages/Edit_Pages.java
+ com.automatizacion.Pages.Edit_Pages
+com/automatizacion/Post/addNew_Post.java
+ com.automatizacion.Post.addNew_Post

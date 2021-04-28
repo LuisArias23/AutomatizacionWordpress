@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.automatizacion.Post.addNew_Post" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-28T15:24:39" hostname="DESKTOP-659OHPT" time="40.075">
+  <properties/>
+  <testcase name="addNewPost()" classname="com.automatizacion.Post.addNew_Post" time="40.075"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 90.0.4430.24 (4c6d850f087da467d926e8eddb76550aed655991-refs/branch-heads/4430@{#429}) on port 24855
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+abr. 28, 2021 10:24:44 A. M. org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>
